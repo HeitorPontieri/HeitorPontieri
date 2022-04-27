@@ -10,7 +10,7 @@ Aprendendo Front-end (HTML e CSS) e Java
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeitorPontieri&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Heitor Pontieri)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HeitorPontieri)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
