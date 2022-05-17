@@ -16,7 +16,7 @@ Aprendendo Front-end (HTML e CSS) e Java
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HeitorPontieri&repo=Java&theme=gruvbox" />
 </a>
 <a href="https://github.com/HeitorPontieri/LehamScervino">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HeitorPontieri&repo=LehamScervino&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HeitorPontieri&repo=ScervinoLeham&theme=gruvbox" />
 </a>
 
 
