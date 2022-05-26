@@ -11,8 +11,8 @@ Learning Front-end (HTML e CSS) e Java 🤓
 
 <div align="center"><hr>
   <a href="https://github.com/HeitorPontieri">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=HeitorPontieri&theme=gruvbox"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorPontieri&layout=compact&theme=gruvbox"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HeitorPontieri&theme=gruvbox"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorPontieri&layout=compact&theme=gruvbox"/>
  
 </div>
 
