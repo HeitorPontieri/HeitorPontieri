@@ -1,8 +1,12 @@
-# Olá! Eu sou o Heitor Pontieri
+# Hello! I´m Heitor 😀
 
-Estudante do SENAI - Jandira, no curso técnico de Desenvolvimento de Sistemas
+Currently studying System Development at SENAI ![](https://jandira.sp.senai.br/)
 
-Aprendendo Front-end (HTML e CSS) e Java
+I´m starting my study´s in this semester and always ready to learn more!
+
+Learning Front-end (HTML e CSS) e Java
+
+
 <div align="center"><hr>
   <a href="https://github.com/HeitorPontieri">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HeitorPontieri&theme=gruvbox"/>
