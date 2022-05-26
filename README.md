@@ -1,6 +1,6 @@
 # Hello! I´m Heitor 😀
 
-Currently studying System Development at SENAI ![](https://jandira.sp.senai.br/)
+Currently studying System Development at ![SENAI](https://jandira.sp.senai.br/)
 
 I´m starting my study´s in this semester and always ready to learn more!
 
