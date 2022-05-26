@@ -6,7 +6,7 @@ Currently studying System Development at [SENAI](https://jandira.sp.senai.br/) �
 
 I´m starting my studies in this semester and always ready to learn more! 🤯
 
-Learning Front-end (HTML e CSS) e Java 🤓
+Learning Front-end (HTML e CSS) and Java 🤓
 
 
 <div align="center"><hr>
