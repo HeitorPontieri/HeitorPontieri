@@ -1,5 +1,7 @@
 # Hello! I´m Heitor 😀
 
+I´m 16 years old 🎉
+
 Currently studying System Development at [SENAI](https://jandira.sp.senai.br/) 📚
 
 I´m starting my study´s in this semester and always ready to learn more! 🤯
