@@ -1,4 +1,4 @@
-# Hello! I´m Heitor 😀
+# Hi! I´m Heitor 😀
 
 I´m 16 years old 🎉
 
