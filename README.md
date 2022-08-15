@@ -4,7 +4,7 @@ I´m 16 years old 🎉
 
 Currently studying System Development at [SENAI](https://jandira.sp.senai.br/) 📚
 
-I´m starting my studies in this semester and always ready to learn more! 🤯
+I´m starting my studies in this year and always ready to learn more! 🤯
 
 Learning Front-end (HTML e CSS), JavaScript and Kotlin for Mobile aplications 🤓
 
