@@ -6,7 +6,7 @@ Currently studying System Development at [SENAI](https://jandira.sp.senai.br/) �
 
 I´m starting my studies in this year and always ready to learn more! 🤯
 
-Learning Front-end (HTML e CSS), JavaScript and Kotlin for Mobile aplications 🤓
+Learning Front-end (HTML,CSS and JS), Node.js and Kotlin Android aplications 🤓
 
 
 <div align="center"><hr>
