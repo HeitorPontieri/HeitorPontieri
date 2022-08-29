@@ -1,5 +1,6 @@
 # Hi! I´m Heitor 😀
-<img height="160em" src="./22102363/Documentos/imgGit"/>
+![imgGit](https://user-images.githubusercontent.com/98404376/187191229-248ba776-3825-4501-920e-876f65986dfc.png)
+
 I´m 16 years old 🎉
 
 Currently studying System Development at [SENAI](https://jandira.sp.senai.br/) 📚
