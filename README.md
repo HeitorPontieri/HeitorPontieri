@@ -1,5 +1,5 @@
 # Hi! I´m Heitor 😀
-![imgGit](https://user-images.githubusercontent.com/98404376/187191229-248ba776-3825-4501-920e-876f65986dfc.png)
+![imgGit](https://user-images.githubusercontent.com/98404376/187191229-248ba776-3825-4501-920e-876f65986dfc.png height = "180em") 
 
 I´m 16 years old 🎉
 
