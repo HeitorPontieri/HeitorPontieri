@@ -7,9 +7,6 @@ Currently studying System Development at [SENAI](https://jandira.sp.senai.br/) �
 
 I´m starting my studies in this year and always ready to learn more! 🤯
 
-Learning Front-end (HTML,CSS and JS), Node.js and Kotlin Android aplications 🤓
-
-
 <div align="center"><hr>
   <a href="https://github.com/HeitorPontieri">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HeitorPontieri&theme=gruvbox"/>
@@ -17,7 +14,7 @@ Learning Front-end (HTML,CSS and JS), Node.js and Kotlin Android aplications �
  
 </div>
 
-## Tecnologias :computer:
+## Technologies 🙀
 
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" /> <img 
 height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> <img
@@ -27,7 +24,8 @@ height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-or
            
 
 
-## Linguagens 🧮
+## Programming Languages 🤓
+  
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img
 height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img 
 height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> <img 
