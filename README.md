@@ -35,7 +35,7 @@ height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysq
 height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
   
   
-  ![snake gif](https://github.com/HeitorPontieri/HeitorPontieri/blob/output/github-contribution-grid-snake.svg)
+ 
           
 
 
