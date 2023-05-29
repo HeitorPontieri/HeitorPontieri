@@ -9,8 +9,8 @@ I´m starting my studies in this year and always ready to learn more! 🤯
 
 <div align="center"><hr>
   <a href="https://github.com/HeitorPontieri">
-  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=HeitorPontieri&theme=gruvbox"/>
-  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorPontieri&layout=compact&theme=gruvbox"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=HeitorPontieri&theme=gruvbox"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorPontieri&layout=compact&theme=gruvbox"/>
  
 </div>
 
