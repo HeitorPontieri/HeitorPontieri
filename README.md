@@ -3,7 +3,7 @@
 
 I´m 20 years old 🎉
 
-Currently studying Bachelor Degree on Science & Technology with focus in Computer Science in UFABC
+Currently studying Bachelor Degree on Science & Technology with focus in Computer Science in Universidade Federal do ABC (UFABC)
 
 Always ready to learn more! 🤯
 
