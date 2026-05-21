@@ -6,13 +6,6 @@ I´m 19 years old 🎉
 Currently studying Bachelor Degree on Science & Technology with focus in Computer Science in UFABC
 Always ready to learn more! 🤯
 
-<div align="center"><hr>
-  <a href="https://github.com/HeitorPontieri">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=HeitorPontieri&theme=gruvbox"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorPontieri&layout=compact&theme=gruvbox"/>
- 
-</div>
-
 ## Technologies 🙀
 
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" /> <img 
@@ -26,6 +19,7 @@ height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-or
 ## Programming Languages 🤓
   
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/><img 
+<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/typescript-plain.svg"/><img                                                                                                               
 height='50em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> <img
 height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img
 height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img
