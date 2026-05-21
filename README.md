@@ -21,7 +21,6 @@ height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-or
 height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img 
 height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /> <img 
 height="50em" src="https://cdn.worldvectorlogo.com/logos/strapi-2.svg" /> <img
-height="50em" src="https://www.npmjs.com/npm-avatar/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdmF0YXJVUkwiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci8wOWE1NmNkNDlhNmM2YjM3OWIyN2NkMjg5YjY2ZjcwZT9zaXplPTQ5NiZkZWZhdWx0PXJldHJvIn0.1i4jj7oadh4oLHLtecCEni5COJru5iw1jJFSiNbA6HU" /> <img
 height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
           
 
