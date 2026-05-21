@@ -4,6 +4,7 @@
 I´m 19 years old 🎉
 
 Currently studying Bachelor Degree on Science & Technology with focus in Computer Science in UFABC
+
 Always ready to learn more! 🤯
 
 ## Technologies 🙀
